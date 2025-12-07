@@ -1,0 +1,22 @@
+fastapi
+sqlalchemy
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+python-multipart
+httpx
+pytest
+beautifulsoup4
+requests
+textblob
+duckduckgo-search
+slowapi
+async_lru
+
+# BERT/Transformer dependencies
+torch
+transformers
+datasets
+accelerate
